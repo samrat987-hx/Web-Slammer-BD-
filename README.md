@@ -17,5 +17,7 @@ A Bangladeshi-themed Call Bomber script using a private API.
 ## Run Command
 
 ```bash
+git clone https://github.com/samrat987-hx/Web-Slammer-BD-.git
+cd Web-Slammer-BD-
 chmod +x web-slammer.sh
 ./web-slammer.sh
