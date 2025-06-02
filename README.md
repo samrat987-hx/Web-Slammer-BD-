@@ -1,6 +1,6 @@
 # WEB SLAMMER BD
 
-A Bangladeshi-themed Call Bomber script using a public API.
+A Bangladeshi-themed Call Bomber script using a private API.
 
 ---
 
@@ -8,12 +8,9 @@ A Bangladeshi-themed Call Bomber script using a public API.
 - Custom ASCII Logo
 - Colorized terminal UI
 - Call bombing via external API
-
+- With this tool you can make unlimited calls to your girlfriend phone.
 ---
 
-## Screenshot
-
-![Web Slammer BD Screenshot](ss.png)
 
 ---
 
